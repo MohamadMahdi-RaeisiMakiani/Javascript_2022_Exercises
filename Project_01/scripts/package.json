@@ -1,0 +1,11 @@
+{
+  "name": "mmd_proj01",
+  "version": "1.0.0",
+  "description": "JavaScript Exercise Project 01",
+  "main": "script_12.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamad Mahdi Raeisi",
+  "license": "ISC"
+}
