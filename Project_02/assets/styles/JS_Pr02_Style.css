@@ -1,0 +1,13 @@
+body{
+  font-family: monospace;
+}
+
+.head-1{
+  text-align: center;
+  margin: 2rem
+}
+
+.second-div{
+  margin: 2rem auto;
+  text-align: center;
+}
