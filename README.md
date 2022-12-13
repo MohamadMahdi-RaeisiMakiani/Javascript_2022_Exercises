@@ -5,3 +5,10 @@
   Project 1:
     - Basic DOM
     - A simple object
+  Project 2:
+    - Create a Date Object
+    - Add the Object to the HTML Template
+  Project 3:
+    - Create an element
+    - Set attributes for a specific element
+    - Change an element style
